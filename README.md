@@ -14,7 +14,7 @@ pnpm i framer-motion clsx tailwind-merge
 ```
 
 ![just-the-basics](https://github.com/withastro/astro/assets/2244813/a0a5533c-a856-4198-8470-2d67b1d7c554)
-![just-the-basics](https://ui.aceternity.com/banner.png)
+![just-the-basics](https://miro.medium.com/v2/resize:fit:1400/0*3GRHW4UEaZqWuYj2.png)
 
 ## 🚀 Project Structure
 
