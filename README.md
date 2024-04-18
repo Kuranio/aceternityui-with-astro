@@ -60,4 +60,5 @@ All commands are run from the root of the project, from a terminal:
 ## 👀 Want to learn more?
 
 Astro Build : https://astro.build/
+
 Aceternity UI : https://ui.aceternity.com/
