@@ -1,4 +1,4 @@
-# Astro Starter Kit: Basics
+# Astro using Aceternity UI Components
 
 ```sh
 pnpm create astro@latest
