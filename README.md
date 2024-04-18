@@ -27,8 +27,12 @@ Inside of your Astro project, you'll see the following folders and files:
 │   └── favicon.svg
 ├── src/
 │   ├── components/
-│   │   └── Card.astro
-│   ├── layouts/€
+│   │   ├── react/
+│   │   │   ├── aceternityui/
+│   │   │   │   └── component.tsx
+│   │   │   └── usingcomponent.ts
+│   │   └── component.astro
+│   ├── layouts/
 │   │   └── Layout.astro
 │   └── pages/
 │       └── index.astro
